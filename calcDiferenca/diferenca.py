@@ -6,7 +6,8 @@ C = int(input("Digite o terceiro número inteiro: "))
 D = int(input("Digite o quarto número inteiro: "))
 
 diferenca = (A * B - C * D)
-print(f"DADOS = {A}, {B}, {C} e {D}")
-print(f"DIFERENCA = {diferenca}")
+print("Fórmula para calcular a diferença: (A * B - C * D)")
+print(f"Fórmula com os valores fornecidos ({A} * {B} - {C} * {D})")
+print(f"O resultado da DIFERENCA = {diferenca}")
 # ou pode ser feito da seguinte forma:
-print(f"DIFERENCA = {A * B - C * D}")
+print(f"O resultado da DIFERENCA = {A * B - C * D}")
