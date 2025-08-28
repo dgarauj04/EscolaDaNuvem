@@ -1,32 +1,32 @@
-# 🧠 Atividade Prática 05 — Escola da Nuvem
+# 🧠 Atividade Prática 06 — Escola da Nuvem
 
-Este repositório reúne os códigos desenvolvidos para a Atividade Prática 05, proposta pela Escola da Nuvem. Os exercícios exploram funções em Python, tratamento de strings, operações matemáticas e manipulação de datas.
+Este repositório contém os códigos desenvolvidos para a Atividade Prática 06, proposta nos slides da Aula 10 da Escola da Nuvem. Os exercícios exploram uso de módulos padrão, consumo de APIs públicas, tratamento de exceções e manipulação de dados.
 
 ---
 
 ## 📋 Exercícios
 
-### 1️⃣ Gorjeta
-**Descrição:** Uma função que calcula a gorjeta a ser deixada em um restaurante, baseada no valor total da conta e na porcentagem de gorjeta desejada.
+### 1️⃣ Gerador de Senha Aleatória 
+**Descrição:** Um programa que gera uma senha com letras maiúsculas, minúsculas, dígitos e caracteres especiais. O usuário informa o tamanho da senha.
 
-### 2️⃣ Palíndromo
-**Descrição:** Uma função que verifica se uma palavra ou frase é um palíndromo (ignorar espaços e pontuação). Retornar “Sim” ou “Não”.
+### 2️⃣ Perfil Aleatório de Usuário via API
+**Descrição:** Um programa que gera um perfil de usuário aleatório usando a API 'Random User Generator' e exiba o nome, email e país do usuário gerado.
 
-### 3️⃣ Desconto
-**Descrição:** Um programa que receba o preço original de um produto e um percentual de desconto. Calcule e exiba o preço final com duas casas decimais.
+### 3️⃣ Busca de Endereço por CEP
+**Descrição:** Um programa que receba o CEP informado pelo usuário, cosnulte a API 'ViaCEP' e exiba logradouro, bairro, cidade e estado.
 
-### 4️⃣ Idade em Dias
-**Descrição:** Uma função que calcule a idade de uma pessoa em dias, baseada no ano de nascimento (usar datetime para precisão).
+### 4️⃣ Cotação de Moedas
+**Descrição:** Uma função que consulta a moeda informado pelo usuário, consulte a API 'AwesomeAPI' e exiba a cotação atual(bid), máximo (high), mínimo (low) e a data/hora da última atualização.
 
 ## 🛠 Tecnologias Utilizadas  
 - **Linguagem:** Python  
 - **Editor:** VS Code
 
 ## 📂 Organização dos Arquivos  
-├── calcDesconto/desconto.py 
-├── calcGorjeta/gorjeta.py 
-├── Palindromo/palindromo.py 
-└── Idade/idade.py
+├── cotacaoMoedas/cotacao_moeda.py 
+├── enderecoCEP/endereco.py 
+├── gerarPerfil/gerar_perfil.py  
+└── gerarSenha/gerar_senha.py
 
 ## 📌 Observações  
 - Todos os exercícios foram desenvolvidos com foco em clareza, lógica e boas práticas de programação. 
