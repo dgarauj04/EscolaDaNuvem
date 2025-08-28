@@ -1,4 +1,4 @@
-# 🧠 Atividade Prática 03 — Escola da Nuvem
+# 🧠 Atividade Prática 04 — Escola da Nuvem
 
 Este repositório contém os códigos desenvolvidos para a Atividade Prática 04, proposta pela Escola da Nuvem. Os exercícios abordam conceitos essenciais de programação como validação de entrada, tratamento de exceções, estruturas de repetição e lógica condicional.
 
